@@ -38,3 +38,12 @@ Are you tired of sifting through complicated recipes and endless cooking apps? S
 
 
 Clone the future of cooking—access our repository and join the culinary revolution! 🚀📦
+
+
+Screenshots:
+
+   ![Image 25](https://github.com/AliHosaam/Fullstack-Online-Shop/assets/137641254/1ac1e9fc-2496-47e5-b431-5dcba48ad24f)
+   ![Image 24](https://github.com/AliHosaam/Fullstack-Online-Shop/assets/137641254/8f73e4f1-8ac3-4705-b155-a297a216913a)
+   ![Image 23](https://github.com/AliHosaam/Fullstack-Online-Shop/assets/137641254/e812daa7-7ab4-4ce3-81aa-dc92130c7724)
+   ![Image 22](https://github.com/AliHosaam/Fullstack-Online-Shop/assets/137641254/80012d27-b2df-41a5-8c31-de6d575fc6c3)
+   ![Image 21](https://github.com/AliHosaam/Fullstack-Online-Shop/assets/137641254/5733e818-72cf-4717-9bd0-682f9453081d)
